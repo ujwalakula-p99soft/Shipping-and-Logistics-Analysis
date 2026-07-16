@@ -294,44 +294,6 @@ Contains
 
 ---
 
-## 4 Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## 5 Configure Environment
-
-Create
-
-```
-.env
-```
-
-with
-
-```
-AWS_REGION=
-
-AWS_ACCESS_KEY_ID=
-
-AWS_SECRET_ACCESS_KEY=
-
-SECRET_NAME=
-```
-
----
-
-## 6 Execute
-
-```bash
-python src/main.py
-```
-
----
-
 # 📈 Key Features
 
 - Incremental ELT Pipeline
