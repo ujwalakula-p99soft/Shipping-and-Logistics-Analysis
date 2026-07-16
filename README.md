@@ -2,7 +2,7 @@
 
 A production-oriented **Incremental ELT Data Engineering Pipeline** built using **Python, Snowflake, SQL, and AWS Secrets Manager**, implementing the **Medallion Architecture (Bronze → Silver → Gold)** and **Star Schema** for logistics analytics.
 
-The pipeline processes the **Global Superstore Dataset**, incrementally loads data into Snowflake, performs SQL-based transformations, and generates analytical reports to improve shipping efficiency.
+The pipeline processes the **Global Superstore Dataset** https://www.kaggle.com/datasets/fatihilhan/global-superstore-dataset, incrementally loads data into Snowflake, performs SQL-based transformations, and generates analytical reports to improve shipping efficiency.
 
 ---
 
